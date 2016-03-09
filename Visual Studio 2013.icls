@@ -199,6 +199,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="462900" />
         <option name="EFFECT_COLOR" value="ff9c00" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
